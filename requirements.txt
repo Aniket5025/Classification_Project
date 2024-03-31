@@ -1,0 +1,11 @@
+Flask
+gunicorn
+pandas
+numpy
+scikit-learn
+datetime
+PyYAML
+evidently
+dill
+matplotlib
+cassandra-driver
